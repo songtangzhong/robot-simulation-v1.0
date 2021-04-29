@@ -77,6 +77,7 @@ source ~/.bashrc
 5. Run gazebo simulation.
 ```
 gazebo ~/franka_robot_ws/src/gazebo_env/world/panda.world
+This should be run in firstly and shutdown in finally in the whole operation of the project.
 ```
 
 6. Run ros2 controller manager.
