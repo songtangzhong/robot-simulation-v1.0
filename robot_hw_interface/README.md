@@ -19,4 +19,6 @@ test/test_switch_controller.cpp is used to test the function of switching contro
 
 Usage:
 ros2 run robot_hw_interface test_switch_controller [start_controller] [stop_controller]
+
+[start_controller] and [stop_controller] should be replaced with real controllers.
 ```
