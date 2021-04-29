@@ -35,6 +35,7 @@ used as shared library in other packages.
 1. Create a ros2 workspace.
 ```
 mkdir -p ~/franka_robot_ws/src
+```
 
 2. Switch to ~/franka_robot_ws/src, and clone the project.
 ```
@@ -44,6 +45,7 @@ cd robot_sim
 mv ./* ../
 cd ..
 rm -rf robot_sim
+```
 
 3. Build the project.
 cd ~/franka_robot_ws
