@@ -26,9 +26,11 @@ ros2 run gazebo_plugin test_gazebo_plugin_write
 ```
 test/test_gazebo_plugin_read.cpp is used to test the gazebo control plugin
 with reading operation.
+
 Usage:
 In one terminal:
 gazebo ~/franka_robot_ws/src/gazebo_env/world/panda.world
+
 In second terminal:
 ros2 run gazebo_plugin test_gazebo_plugin_read
 ```
