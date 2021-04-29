@@ -33,9 +33,11 @@ used as shared library in other packages.
 
 ## Usage
 1. Create a ros2 workspace.
+```
 mkdir -p ~/franka_robot_ws/src
 
 2. Switch to ~/franka_robot_ws/src, and clone the project.
+```
 cd ~/franka_robot_ws/src
 git clone https://github.com/songtangzhong/robot_sim.git
 cd robot_sim
