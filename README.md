@@ -1,6 +1,7 @@
-# robot_sim:
+# robot_sim
 
 1. robot_description
+
 This package includes descriptions of a robot, 
 mainly are ".xacro" files in "./urdf". The robot 
 model is described in urdf form.
