@@ -54,11 +54,11 @@ mkdir -p ~/franka_robot_ws/src
 2. Switch to ~/franka_robot_ws/src, and clone the project.
 ```
 cd ~/franka_robot_ws/src
-git clone https://github.com/songtangzhong/robot_sim.git
-cd robot_sim
+git clone https://github.com/songtangzhong/robot-simulation-v1.0.git
+cd robot-simulation-v1.0
 mv ./* ../
 cd ..
-rm -rf robot_sim
+rm -rf robot-simulation-v1.0
 ```
 
 3. Build the project.
